@@ -18,11 +18,11 @@ Dengan mengolah data historical advertisement serta menemukan insight serta pola
 
 ![Picture3](https://user-images.githubusercontent.com/114457985/211176595-7cacc624-6bc7-498b-a37e-78c5e6d6f550.jpg)
 
-Proporsi customer melihat iklan pada category Finance dan Fashion adalah yang tertinggi pada category tersebut. Sedangkan pada category Bank adalah yang paling rendah
+- Proporsi customer melihat iklan pada category Finance dan Fashion adalah yang tertinggi pada category tersebut. Sedangkan pada category Bank adalah yang paling rendah
 
 ![Picture4](https://user-images.githubusercontent.com/114457985/211176614-68633657-5c1b-45bc-b099-f7dc8cc47590.jpg)
 
-Customer yang mengunjungi situs/platform pada hari Kamis secara proporsi lebih tinggi melakukan clicked on Ad dibandingkan dengan hari lain.
+- Customer yang mengunjungi situs/platform pada hari Kamis secara proporsi lebih tinggi melakukan clicked on Ad dibandingkan dengan hari lain.
 
 # Business Recommendation
 
