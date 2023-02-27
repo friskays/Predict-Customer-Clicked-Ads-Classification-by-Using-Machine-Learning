@@ -1,4 +1,5 @@
 # Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
+-- Mini Project from Rakamin Academy --
 
 # Overview
 
